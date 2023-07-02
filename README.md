@@ -1,3 +1,3 @@
 # testrepo
 ## Editing the file
-### it is a test repository
+it is a test repository
